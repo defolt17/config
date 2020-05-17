@@ -8,3 +8,7 @@ Cinnamon
 CS:GO
 
     C:\Program Files (x86)\Steam\userdata\190888841\730\local\cfg\config.cfg
+
+VSCode
+
+    ctrl-c/v into settings.json
