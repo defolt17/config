@@ -12,3 +12,7 @@ CS:GO
 VSCode
 
     ctrl-c/v into settings.json
+    
+Rotate screen and pointer
+    
+    ./landscape.sh or ./portrait.sh
